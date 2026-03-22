@@ -20,7 +20,7 @@ export default function Projects() {
         <div className="mb-14">
           <span className="section-badge">Projects</span>
           <h2 className="text-4xl md:text-5xl font-black tracking-tight">
-            My <span className="text-primary">Work</span>
+            My <span className="text-primary">Works</span>
           </h2>
           <div className="section-divider" />
           <p className="text-white/40 text-sm leading-relaxed max-w-lg">
