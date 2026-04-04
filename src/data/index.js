@@ -11,9 +11,9 @@ export const personalInfo = {
   email:       "omurfaruknayeem@gmail.com",
   location:    "Dhaka, Bangladesh 🇧🇩",
   availability:"Open to Work",
-  github:      "https://github.com/omurfaruknayeem",
+  github:      "https://github.com/xyan-nayeem",
   linkedin:    "https://linkedin.com/in/omurfaruknayeem",
-  facebook:    "https://facebook.com/omurfaruknayeem",
+  facebook:    "https://www.facebook.com/share/1AdjvT1eXh/",
   twitter:     "https://twitter.com/omurfaruknayeem",
   stats: [
     { value: "10+", label: "Projects Completed" },
