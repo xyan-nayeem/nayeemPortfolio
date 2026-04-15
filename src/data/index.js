@@ -82,7 +82,7 @@ export const skillCategories = [
     skills: [
       { name: "HTML5",           level: 92 },
       { name: "CSS3",            level: 88 },
-      { name: "JavaScript ES6+", level: 80 },
+      { name: "JavaScript",      level: 60 },
     ],
   },
   {
@@ -91,7 +91,7 @@ export const skillCategories = [
     skills: [
       { name: "React.js",       level: 78 },
       { name: "Tailwind CSS",   level: 82 },
-      { name: "Bootstrap 5",    level: 85 },
+      { name: "Bootstrap ",     level: 85 },
     ],
   },
   {
