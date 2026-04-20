@@ -50,7 +50,7 @@ export const experiences = [
     ],
   },
   {
-    title:   "Personal Projects & Self Practice",
+    title:   "Personal Projects & Self Practices",
     company: "Self-Initiated",
     date:    "Mar 2024 – Present",
     type:    "Project",
