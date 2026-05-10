@@ -6,7 +6,7 @@
 export const personalInfo = {
   name:        "Omur Faruk Nayeem",
   role:        "Frontend Developer",
-  tagline:     "I build beautiful, fast & accessible web experiences.",
+  tagline:     "I build beautiful, fast & accessible web experiences. data",
   bio:         "A passionate Frontend Developer from Bangladesh with 1+ year of hands-on experience crafting responsive websites and web applications. I love turning creative design ideas into clean, functional code using modern technologies like React.js and Tailwind CSS.",
   email:       "omurfaruknayeem@gmail.com",
   location:    "Dhaka, Bangladesh 🇧🇩",
