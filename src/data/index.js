@@ -23,9 +23,9 @@ export const personalInfo = {
 };
 
 export const typedWords = [
-  "Frontend Developer",
+  "Front end Developer",
   "React.js Enthusiast",
-  "UI / UX Lover",
+  "UI / UX Lovers",
   "Creative Coder",
 ];
 
