@@ -25,7 +25,7 @@ export const personalInfo = {
 export const typedWords = [
   "Front end Developer",
   "React.js Enthusiast",
-  "UI / UX Lovers",
+  "UI / UX Lover",
   "Creative Coder",
 ];
 
