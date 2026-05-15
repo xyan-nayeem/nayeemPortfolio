@@ -36,9 +36,10 @@ export const aboutPoints = [
   "Always exploring new tools and best practices in the web ecosystem.",
 ];
 
+  
 export const experiences = [
   {
-    title:   "Frontend Development Course",
+    title:   "Frontend Development  All Course",
     company: "Online Learning Platform",
     date:    "Jan 2024 – Present",
     type:    "Education",
