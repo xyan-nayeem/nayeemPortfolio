@@ -39,7 +39,7 @@ export const aboutPoints = [
   
 export const experiences = [
   {
-    title:   "Frontend Development  All Course",
+    title:   "Frontend Development ",
     company: "Online Learning Platform",
     date:    "Jan 2024 – Present",
     type:    "Education",
